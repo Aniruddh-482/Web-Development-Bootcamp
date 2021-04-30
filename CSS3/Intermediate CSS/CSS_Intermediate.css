@@ -45,33 +45,23 @@ Due to their tiny size, favicons work best as simple images or one-to-three char
 /* 
 * CSS Positioning *
   ---------------  
+The position CSS property sets how an element is positioned in a document. 
+The top, right, bottom, and left properties determine the final location of positioned elements.
 
 1. Content is Everything
 2. Order Comes From Code
 3. Children Sit On Parents
 
+* Coordinates:
+  * Top
+  * Bottom
+  * Left
+  * Right
+
 * CSS Position Property
-  * Static
-  * Relative
-  * Absolute
-  * Fixed
-
-# Relative: 
-img {
-  position: relative
-  left: 30px;
-}
-
-  * Coordinates:
-    * Top
-    * Bottom
-    * Left
-    * Right
-
-
+  * Static   ( By Default, The element is positioned according to the normal flow of the document. )
+  * Relative ( The element is positioned according to the normal flow of the document. )
+  * Absolute ( The element is removed from the normal document flow, and no space is created for the element in the page layout. )
+  * Fixed    ( The element is removed from the normal document flow, and no space is created for the element in the page layout. )
 
 */
-
-
-
-
