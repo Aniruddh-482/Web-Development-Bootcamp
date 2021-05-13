@@ -1,15 +1,20 @@
 # Web Development Bootcamp
 
-## Bootstrap 4
+## Bootstrap 5
 
-[>]() Introduction to Bootstrap 4: 
+[>](https://github.com/Aniruddh-482/Web-Development-Bootcamp/blob/main/Bootstrap%204/Introduction%20to%20Bootstrap%204/Bootstrap_Introduction.html) Introduction to Bootstrap 5: 
 * Important Links: 
-  * Codeply (Use Bootstrap in an Online Editor): https://www.codeply.com/ 
-  * Bootstrap Homepage: https://getbootstrap.com/  
+  * [Codeply](https://www.codeply.com/) (Use Bootstrap in an Online Editor) 
+  * [Bootstrap Homepage](https://getbootstrap.com/)  
+  * [Websites featured on awwwards.com](https://www.awwwards.com/websites/com/) 
+  * [Design patterns on ui-patterns.com](http://ui-patterns.com/patterns) 
+  * [Websites on dribbble.com](https://dribbble.com/search/website) 
+  * [Templates on sneakpeekit.com](https://sneakpeekit.com/) 
+  * [Wireframing with balsamiq](https://balsamiq.cloud/sr355x9/projects) 
 
 * What is Bootstrap? 
 * Installing Bootstrap 
-* Web Design 101 - Wireframing 
+* Web Design 101 - Wireframing       <!-- https://balsamiq.cloud/sr355x9/pgruo9v/r2278 -->
 * The Bootstrap Navigation Bar 
 * What We'll Make: TinDog 
 * Setting Up Our New Project 
@@ -22,20 +27,3 @@
 * Styling Our Website Challenges and Solutions 
 * Bootstrap Challenge 1 
 <hr>
-
-<!-- Bootstrap 4
-/
-Introduction to Bootstrap 4
-/
-
-  Bootstrap
-! --------- !
-
-What is Bootstrap?
-* Bootstrap is a free front-end framework for faster and easier web development
-* Bootstrap includes HTML and CSS based design templates for typography, forms, buttons, tables, navigation, modals, 
-  image carousels and many other, as well as optional JavaScript plugins
-* Bootstrap also gives you the ability to easily create responsive designs
-
-# CDN (Content Delivery Network)
--->
