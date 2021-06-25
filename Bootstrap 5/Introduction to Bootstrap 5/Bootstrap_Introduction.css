@@ -1,4 +1,4 @@
-<!-- 
+/*  
 / Introduction to Bootstrap 4 /
 / --------------------------- /
 
@@ -18,12 +18,12 @@
 # What Are Wireframes?
   * A wireframe is a schematic or blueprint that is useful for helping you, 
     your programmers and designers think and communicate about the structure of the software or website you're building.
--->
+*/
 
-<!-- 
+/*  
   The Bootstrap Navigation Bar
 ! ---------------------------- !
--->
+*/
 <nav class="navbar bg-dark navbar-expand-lg navbar-dark">
   <a class="navbar-brand" href="">Tindog</a>
    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -44,10 +44,10 @@
  </div>
 </nav>
 
-<!-- 
+/*  
   Bootstrap Grid Layout System
 ! ---------------------------- !
--->
+*/
 <div class="row">
   <div class="col" style="background-color:red; border: 1px solid;">
     col
@@ -60,12 +60,12 @@
   </div> -->
 </div>
 
-<!-- Desktop-2 Tablet-2 Smartphone-2 -->
+/* Desktop-2 Tablet-2 Smartphone-2 */
 <div class="row">
   <div class="col-6" style="background-color:green; border: 1px solid;">
-    col-6   <!-- Total - 12 -->
+    col-6   /* Total - 12 */
   </div>
-  <!-- <div class="col-3" style="background-color:green; border: 1px solid;">
+  /* <div class="col-3" style="background-color:green; border: 1px solid;">
     col-3
   </div>
   <div class="col-2" style="background-color:green; border: 1px solid;">
@@ -73,13 +73,13 @@
   </div>
   <div class="col-1" style="background-color:green; border: 1px solid;">
     col-1
-  </div> -->
+  </div> */
   <div class="col-6" style="background-color:green; border: 1px solid;">
     col-6
   </div>
 </div>
 
-<!-- Desktop-2 Tablet-2 Smartphone-100% width -->
+/* Desktop-2 Tablet-2 Smartphone-100% width */
 <div class="row">
   <div class="col-md-6" style="background-color:blue; border: 1px solid;">
     col-md-6
@@ -89,7 +89,7 @@
   </div>
 </div>
 
-<!-- Desktop-4 Tablet-3 Smartphone-2 -->
+/* Desktop-4 Tablet-3 Smartphone-2 */
 <div class="row">
   <div class="col-lg-3 col-md-4 col-sm-6" style="background-color:yellow; border: 1px solid;">
     col-lg-3 col-md-4 col-sm-6
@@ -105,7 +105,7 @@
   </div>
 </div>
 
-<!-- Desktop-6 Tablet-4 Smartphone-100% width -->
+/* Desktop-6 Tablet-4 Smartphone-100% width */
 <div class="row">
   <div class="col-lg-2 col-md-3" style="background-color:gray; border: 1px solid;">
     col-lg-2 col-md-3
@@ -127,11 +127,11 @@
   </div>
 </div>
 
-<!-- 
+/*  
   Bootstrap Containers
 ! -------------------- !
--->
-<!-- Default Container -->
+*/
+/* Default Container */
 <div class="container" style="background-color: red;">
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt 
   ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco 
@@ -140,7 +140,7 @@
   non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 </div>
 
-<!-- Fluid Container -->
+/* Fluid Container */
 <div class="container-fluid" style="background-color: yellow;">
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt 
   ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco 
