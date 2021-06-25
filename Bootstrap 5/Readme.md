@@ -2,7 +2,7 @@
 
 ## Bootstrap 5
 
-[>](https://github.com/Aniruddh-482/Web-Development-Bootcamp/blob/main/Bootstrap%205/Introduction%20to%20Bootstrap%205/Bootstrap_Introduction.html) Introduction to Bootstrap 5: 
+[>](https://github.com/Aniruddh-482/Web-Development-Bootcamp/blob/main/Bootstrap%205/Introduction%20to%20Bootstrap%205/Bootstrap_Introduction.css) Introduction to Bootstrap 5: 
 * Important Links: 
   * [Codeply](https://www.codeply.com/) (Use Bootstrap in an Online Editor) 
   * [Bootstrap Homepage](https://getbootstrap.com/)  
@@ -10,7 +10,10 @@
   * [Design patterns on ui-patterns.com](http://ui-patterns.com/patterns) 
   * [Websites on dribbble.com](https://dribbble.com/search/website) 
   * [Templates on sneakpeekit.com](https://sneakpeekit.com/) 
-  * [Wireframing with balsamiq](https://balsamiq.cloud/sr355x9/projects) 
+  * [Wireframing with balsamiq](https://balsamiq.cloud/sr355x9/projects)  
+  * [Font Awesome](https://fontawesome.com/) 
+  * [Transform-Function](https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function) 
+  <!-- * []() -->
 
 * What is Bootstrap? 
 * Installing Bootstrap 
