@@ -1,8 +1,8 @@
 /*  
-/ Introduction to Bootstrap 4 /
-/ --------------------------- /
+! Introduction to Bootstrap 4 !
+! --------------------------- !
 
-  Bootstrap
+! Bootstrap !
 ! --------- !
 
 # What is Bootstrap?
@@ -20,10 +20,11 @@
     your programmers and designers think and communicate about the structure of the software or website you're building.
 */
 
-/*  
-  The Bootstrap Navigation Bar
-! ---------------------------- !
-*/
+
+/* _____________________________________________________________________________________________________________ */
+ 
+/* The Bootstrap Navigation Bar */
+/* ---------------------------- */
 <nav class="navbar bg-dark navbar-expand-lg navbar-dark">
   <a class="navbar-brand" href="">Tindog</a>
    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -44,10 +45,12 @@
  </div>
 </nav>
 
-/*  
-  Bootstrap Grid Layout System
-! ---------------------------- !
-*/
+
+/* _____________________________________________________________________________________________________________ */
+
+/* Bootstrap Grid Layout System */
+/* ---------------------------- */
+
 <div class="row">
   <div class="col" style="background-color:red; border: 1px solid;">
     col
@@ -55,9 +58,9 @@
   <div class="col" style="background-color:red; border: 1px solid;">
     col
   </div>
-  <!-- <div class="col" style="background-color:red; border: 1px solid;">
+  /* <div class="col" style="background-color:red; border: 1px solid;">
     col
-  </div> -->
+  </div> */
 </div>
 
 /* Desktop-2 Tablet-2 Smartphone-2 */
@@ -127,10 +130,12 @@
   </div>
 </div>
 
-/*  
-  Bootstrap Containers
-! -------------------- !
-*/
+
+/* _____________________________________________________________________________________________________________ */
+
+/* Bootstrap Containers */
+/* -------------------- */
+
 /* Default Container */
 <div class="container" style="background-color: red;">
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt 
@@ -149,3 +154,4 @@
   non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 </div>
 
+/* _____________________________________________________________________________________________________________ */
