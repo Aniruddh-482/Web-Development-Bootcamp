@@ -2,7 +2,6 @@
 
 ## Bootstrap 5
 
-[>](https://github.com/Aniruddh-482/Web-Development-Bootcamp/blob/main/Bootstrap%205/Introduction%20to%20Bootstrap%205/Bootstrap_Introduction.css) Introduction to Bootstrap 5: 
 * Important Links: 
   * [Codeply](https://www.codeply.com/) (Use Bootstrap in an Online Editor) 
   * [Bootstrap Homepage](https://getbootstrap.com/)  
@@ -14,6 +13,9 @@
   * [Font Awesome](https://fontawesome.com/) 
   * [Transform-Function](https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function) 
   <!-- * []() -->
+<br>
+
+[>](https://github.com/Aniruddh-482/Web-Development-Bootcamp/blob/main/Bootstrap%205/Introduction%20to%20Bootstrap%205/Bootstrap_Introduction.css) Introduction to Bootstrap 5: 
 
 * What is Bootstrap? 
 * Installing Bootstrap 
@@ -29,5 +31,21 @@
 * Bootstrap Buttons & Font Awesome 
 * Styling Our Website Challenges and Solutions 
 * Bootstrap Challenge 1 
-<hr>
+<br>
 
+[>]() Intermediate Bootstrap: 
+
+* The Bootstrap Carousel Part 1 
+* The Bootstrap Carousel Part 2 
+* Bootstrap Cards 
+* The CSS Z-Index and Stacking Order 
+* Media Query Breakpoints 
+* Bootstrap Challenge 2 
+* Bootstrap Challenge 2 Solution 
+* How to become a Better Programmer - Code Refactoring 
+* Put it into Practice - Refactor our Website Part 1 
+* Advanced CSS - Combining Selectors 
+* Refactoring our Website Part 2 
+* Advanced CSS - Selector Priority 
+* Completing the Website 
+<hr>
