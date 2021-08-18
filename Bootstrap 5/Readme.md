@@ -33,10 +33,10 @@
 * Bootstrap Challenge 1 
 <br>
 
-[>]() Intermediate Bootstrap: 
+[>](https://github.com/Aniruddh-482/Web-Development-Bootcamp/blob/main/Bootstrap%205/Intermediate%20Bootstrap/Readme.md) Intermediate Bootstrap: 
 
 * The Bootstrap Carousel Part 1 
-* The Bootstrap Carousel Part 2 
+* The Bootstrap Carousel Part 2       <!-- https://www.codeply.com/p/bOnHVp5Qt2 -->
 * Bootstrap Cards 
 * The CSS Z-Index and Stacking Order 
 * Media Query Breakpoints 
